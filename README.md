@@ -17,10 +17,6 @@ Sistem ini memodelkan perubahan tiga variabel utama seiring waktu ($t$):
 
 Fluks kinetika sintesis ($v_1$) dihambat secara alosterik oleh produk $P$ melalui faktor pengali konstanta inhibisi ($K_i$).
 
-## 🚀 Cara Menjalankan Proyek
-
-### 1. Prasyarat
-Pastikan Anda sudah menginstal Python (versi 3.8 ke atas direkomendasikan) di perangkat Anda.
 
 ### 2. Kloning Repositori
 Kloning proyek ini ke komputer lokal Anda menggunakan perintah:
