@@ -16,10 +16,3 @@ Sistem ini memodelkan perubahan tiga variabel utama seiring waktu ($t$):
 3. **Level Akumulasi Target Biosintesis ($P$)**
 
 Fluks kinetika sintesis ($v_1$) dihambat secara alosterik oleh produk $P$ melalui faktor pengali konstanta inhibisi ($K_i$).
-
-
-### 2. Kloning Repositori
-Kloning proyek ini ke komputer lokal Anda menggunakan perintah:
-```bash
-git clone [https://github.com/USERNAME_ANDA/simulasi-kinetika-bioreaktor.git](https://github.com/USERNAME_ANDA/simulasi-kinetika-bioreaktor.git)
-cd simulasi-kinetika-bioreaktor
